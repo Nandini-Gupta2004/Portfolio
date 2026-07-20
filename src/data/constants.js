@@ -296,8 +296,7 @@ export const projects = [
       "CSS"
     ],
     category: "web app",
-    github: "https://github.com/Nandini-Gupta2004/Portfolio",
-    webapp: "https://YOUR_PORTFOLIO_LINK.com",
+    github: "https://github.com/Nandini-Gupta2004/Portfolio", 
   },
   {
   id: 4,
